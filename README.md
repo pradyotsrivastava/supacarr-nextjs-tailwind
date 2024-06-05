@@ -1,5 +1,5 @@
 # SupaCarr - Find, book & rent
-
+![SupaCarr](https://github.com/pradyotsrivastava/supacarr-nextjs-tailwind/assets/126956834/00377136-c339-4d32-894a-ac61c534666a)
 1. 🤖 [Introduction](#introduction)
 2. ⚙️ [Tech Stack](#tech-stack)
 3. 🔋 [Features](#features)
@@ -56,6 +56,7 @@ NEXT_PUBLIC_RAPID_API_KEY=
 NEXT_PUBLIC_IMAGIN_API_KEY=
 
 Replace the placeholder values with your actual credentials. You can obtain these credentials by signing up on the corresponding websites from [Rapid API](https://rapidapi.com/apininjas/api/cars-by-api-ninjas/playground/apiendpoint_751d3e33-1f5a-4a8b-afda-f78ffa2219c2) to [Imagin Cars](https://www.imagin.studio/solutions/api)
+
 
 **Running the Project**
 
